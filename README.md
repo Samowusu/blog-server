@@ -18,7 +18,7 @@ Welcome to the Blog API documentation. This API allows users to create, view, up
 
 To get started with the Blog API, follow these steps:
 
-1. Clone the GitHub repository: [GitHub Repo URL](link-to-your-github-repo)
+1. Clone the GitHub repository: [GitHub Repo URL](https://github.com/Samowusu/blog-server)
 2. Install the necessary dependencies using `npm install`.
 3. Set up your environment variables. Make sure you have the following variables in your `.env` file:
 
